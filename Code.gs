@@ -1,6 +1,6 @@
 const BEARER_TOKEN =
   "AAAAAAAAAAAAAAAAAAAAAMqRvwEAAAAAmuaXYFEvnm2hxtpydl%2BcCEtOWwM%3DcFIYUhGAlGDF4DHcdAVAh0mgaEGrXX7Uagp3WKajE4CqSW0boQ"; // Add your Twitter Bearer Token here
-
+//
 // This function will run every time you edit the sheet (i.e., when you paste a link in column A)
 function onEdit(e) {
   const range = e.range; // The range that was edited
